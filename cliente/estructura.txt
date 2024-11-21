@@ -1,0 +1,27 @@
+Sistema del Cliente
+
+1.Menú Principal
+    a.Bienvenida (Menu y redes sociales)
+    b.Ubicación 
+    c.Formulario para contacto
+    d.Pie de la Página
+
+2.Menú de productos
+    a.Selección de categorias
+        i.Producto de categoria 
+    b.Pie de la página
+
+3.Menú de Compra
+    a.Formulario para datos
+        i.Página de exito en compra realizada
+
+Sistema del Administrador
+
+1.Menú de acceso
+2.Página Principal 
+    a.Bienvenida
+    b.Menú de selección de programa
+3.Consultar clientes, productos y proveedores
+4.Insertar clientes, productos y proveedores
+5.Actualizar clientes, productos y proveedores
+6.Borrar clientes, productos y proveedores
